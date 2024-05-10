@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/index.html</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/assets/papers/COSE2024.pdf</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/assets/papers/LaComunicazione2019.pdf</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/assets/papers/FEIS2018.pdf</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/assets/papers/MoodleMootIT2017.pdf</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/assets/papers/MobileHCI2017.pdf</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/assets/papers/Didamatica2017.pdf</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/assets/papers/AccessibilitaePubblicaAmministrazione2016.pdf</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/assets/papers/AVI2016.pdf</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/assets/papers/ACMInteractions2015.pdf</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://antoniogiovannischiavone.github.io/assets/papers/UAIS2015.pdf</loc>
+  <lastmod>2024-05-02T15:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
