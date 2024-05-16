@@ -41,7 +41,7 @@ a:hover {
 }
 
 a a:focus {
-  outline: none;
+  /* outline: none; */
 }
 
 p {
@@ -1025,7 +1025,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .form-control:focus {
   box-shadow: none;
-  outline: none;
+  /* outline: none; */
 }
 
 .btn.disabled, .btn:disabled {
