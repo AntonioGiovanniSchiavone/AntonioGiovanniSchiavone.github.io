@@ -58,14 +58,14 @@ ul li, ol li {
 	font-weight: 700;
 	color: #fff;
 	text-transform: capitalize;
-	line-height: 70px;
+	line-height: 500%;
 	letter-spacing: 0.1rem;
 }
 .hero-sub-heading {
 	font-size: 20px;
 	font-weight: 400;
 	color: #e6e6e6;
-	line-height: 45px;
+	line-height: 325%;
 	letter-spacing: 0.1rem;
 }
 .section-titile-bg {
@@ -458,7 +458,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 	padding: 0 17px;
 	margin-top: 15px;
 	margin-bottom: 15px;
-	line-height: 40px;
+	line-height: 285%;
 	text-transform: uppercase;
 	cursor: pointer;
 	background: transparent;
@@ -643,7 +643,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 	font-size: 30px;
 	color: #fff;
 	font-weight: 400;
-	line-height: 30px;
+	line-height: 215%;
 	margin-bottom: 25px;
 }
 #hero-area .contents .btn {
@@ -737,7 +737,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .overlay .icons i {
 	height: 42px;
 	width: 42px;
-	line-height: 42px;
+	line-height: 300%;
 	color: #008099;
 	left: 50%;
 	margin-left: -24px;
@@ -871,7 +871,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 	color: #008099;
 }
 .services-item .services-content p {
-	line-height: 22px;
+	line-height: 150%;
 }
 .services-item:hover {
 	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
@@ -996,7 +996,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .footer-2 p {
 	font-size: 14px;
 	color: #fff;
-	line-height: 20px;
+	line-height: 150%;
 	margin: 0;
 	padding-right: 50px;
 }
@@ -1012,7 +1012,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 	background: #333;
 }
 #copyright p {
-	line-height: 42px;
+	line-height: 300%;
 	color: #fff;
 	margin: 0;
 }
