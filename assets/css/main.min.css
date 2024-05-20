@@ -91,7 +91,7 @@ ul li, ol li {
 	font-size: 38px;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 1;
+	line-height: 7%;
 	margin-bottom: 48px;
 	padding: 0 10px;
 	position: relative;
@@ -170,7 +170,7 @@ button:focus {
 	background: #fff;
 	width: 35px;
 	height: 35px;
-	line-height: 38px;
+	line-height: 275%;
 	display: block;
 	text-align: center;
 	border-radius: 100%;
@@ -218,7 +218,7 @@ a.back-to-top i {
 	font-size: 22px;
 	width: 40px;
 	height: 40px;
-	line-height: 40px;
+	line-height: 285%;
 	color: #fff;
 	background: #008099;
 	border-radius: 2px;
@@ -350,7 +350,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 .timeline li .line-title {
 	font-size: 16px;
-	line-height: 6px;
+	line-height: 40%;
 }
 .timeline li span {
 	font-size: 12px;
@@ -359,7 +359,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 .timeline li .line-text {
 	color: #6B6B6B;
-	line-height: 18px;
+	line-height: 125%;
 }
 .timeline li:first-child:before {
 	border: 0;
