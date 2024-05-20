@@ -357,7 +357,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 	display: block;
 }
 .timeline li .line-text {
-	color: #888;
+	color: #6B6B6B;
 	line-height: 18px;
 }
 .timeline li:first-child:before {
@@ -973,7 +973,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 .footer-area .footer-text .nav-inline .nav-link {
 	padding: 11px 7px;
-	color: #888;
+	color: #6B6B6B;
 }
 .footer-area .footer-text .nav-inline .nav-link:hover {
 	color: #008099;
