@@ -1027,3 +1027,7 @@ ol.news_list li {
 	font-weight: 400;
 	font-size: 14px;
 }
+div.services-content span {
+    font-size: x-large;
+    font-weight: bold; 
+}
