@@ -809,8 +809,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 .controls .active {
   color: #00b4d9 !important;
   border-color: #00b4d9;
+  background: white;
   /* font-size: 16px; */
-  background: transparent;
+  /* background: transparent; */
+  
 }
 
 .controls .btn {
@@ -1188,4 +1190,9 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 span.news-date {
 color: #00b4d9;
+}
+
+ol.news_list li {
+	font-weight: 400;
+    font-size: 14px;
 }
