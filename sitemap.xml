@@ -1,77 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>1.00</priority>
+	<loc>https://antoniogiovannischiavone.github.io/</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/index.html</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/index.html</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2024_Un_analisi_sull_implementazione_del_protocollo_HTTPS_nei_siti_web_dei_comuni_italiani.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2024_Un_analisi_sull_implementazione_del_protocollo_HTTPS_nei_siti_web_dei_comuni_italiani.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2024_Municipality2HTTPS_A_study_on_HTTPS_protocol_s_usage_in_Italian_municipalities.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2024_Municipality2HTTPS_A_study_on_HTTPS_protocol_s_usage_in_Italian_municipalities.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2019_Valutazione_dell'usabilita_di_applicazioni_web_su_dispositivi_mobili_tramite_individuazione_di_bad_usability_smells.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2019_Valutazione_dell&apos;usabilita_di_applicazioni_web_su_dispositivi_mobili_tramite_individuazione_di_bad_usability_smells.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2018_Is_Moodle_accessible_An_analysis_through_experiences_in_scientific_literature_and_a_case_study.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2018_Is_Moodle_accessible_An_analysis_through_experiences_in_scientific_literature_and_a_case_study.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2017_Accessibilit%C3%A0_Web_In_Moodle_Un_analisi_attraverso_le_Esperienze_In_Letteratura_Scientifica_ed_un_Caso_Di_Studio.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2017_Accessibilit%C3%A0_Web_In_Moodle_Un_analisi_attraverso_le_Esperienze_In_Letteratura_Scientifica_ed_un_Caso_Di_Studio.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2017_Customizable_Automatic_Detection_of_Bad_Usability_Smells_in_Mobile_Accessed_Web_Applications.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2017_Customizable_Automatic_Detection_of_Bad_Usability_Smells_in_Mobile_Accessed_Web_Applications.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2017_MOOC_e_Accessibilit%C3%A0_Web_un_caso_di_studio.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2017_MOOC_e_Accessibilit%C3%A0_Web_un_caso_di_studio.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2016_Accessibilita_e_Pubblica_Amministrazione.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2016_Accessibilita_e_Pubblica_Amministrazione.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2016_Timelines_for_Mobile_Web_Usability_Evaluation.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2016_Timelines_for_Mobile_Web_Usability_Evaluation.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2015_The_Role_of_Tool_Support_in_Public_Policies_and_Accessibility.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2015_The_Role_of_Tool_Support_in_Public_Policies_and_Accessibility.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-  <loc>https://antoniogiovannischiavone.github.io/assets/papers/2015_An_extensible_environment_for_guideline-based_accessibility_evaluation_of_dynamic_Web_applications.pdf</loc>
-  <lastmod>2024-09-02T08:05:14+00:00</lastmod>
-  <priority>0.80</priority>
+	<loc>https://antoniogiovannischiavone.github.io/assets/papers/2015_An_extensible_environment_for_guideline-based_accessibility_evaluation_of_dynamic_Web_applications.pdf</loc>
+	<lastmod>2024-10-21T11:04:45+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
-
-
 </urlset>
