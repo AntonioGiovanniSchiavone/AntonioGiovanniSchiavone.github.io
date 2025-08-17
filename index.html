@@ -3,31 +3,26 @@
     <head>
         <!-- Required meta tags -->
         <meta charset="utf-8">
+        <link rel="canonical" href="https://antoniogiovannischiavone.github.io/">
+        <meta name="description" content="Computer Science M.Sc. focused on HCI, Web Accessibility and Usability. Research, talks, and publications (UAIS, Computers & Security, MIMIT).">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta property="og:type" content="profile">
+        <meta name="theme-color" content="#0a0a0a">
+        <title>Antonio Giovanni Schiavone</title>
+
+        <!-- Open Graph -->
+        <meta property="og:type" content="website">
         <meta property="og:title" content="Antonio Giovanni Schiavone">
         <meta property="og:url" content="https://antoniogiovannischiavone.github.io/">
         <meta property="og:image" content="https://antoniogiovannischiavone.github.io/assets/img/about/about.jpeg">
         <meta property="og:description" content="Computer Science M.Sc. graduate, expert in Web Accessibility and Usability. Author of MAUVE Accessibility Validator, AICA's Etic Prize winner. Independent researcher and conference speaker.">
         <meta property="profile:first_name" content="Antonio Giovanni ">
         <meta property="profile:last_name" content="Schiavone">
-        <link rel="canonical" href="https://antoniogiovannischiavone.github.io/" />
 
-        <title>Antonio Giovanni Schiavone</title>
-        <meta name="description" content="Computer Science M.Sc. focused on HCI, Web Accessibility and Usability. Research, talks, and publications (UAIS, Computers & Security, MIMIT).">
-
-        <link rel="canonical" href="https://antoniogiovannischiavone.github.io/">
-
-        <meta property="og:type" content="website">
-        <meta property="og:title" content="Antonio Giovanni Schiavone — HCI, Accessibility, Usability, Cybersecurity">
-        <meta property="og:description" content="Research and publications on HCI, Web Accessibility and Usability.">
-        <meta property="og:url" content="https://antoniogiovannischiavone.github.io/">
-        <meta property="og:image" content="https://antoniogiovannischiavone.github.io/assets/og-image.jpg">
-
+        <!-- Twitter Card -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="Antonio Giovanni Schiavone — HCI, Accessibility, Usability, Cybersecurity">
         <meta name="twitter:description" content="Research and publications on HCI, Web Accessibility and Usability.">
-        <meta name="twitter:image" content="https://antoniogiovannischiavone.github.io/assets/og-image.jpg">
+        <meta name="twitter:image" content="https://antoniogiovannischiavone.github.io/assets/img/about/about.jpeg">
 
         <link rel="icon" href="assets/img/icon.png" >
         <link rel="preload" href="https://fonts.googleapis.com/css?family=Roboto&display=swap" as="style">
@@ -330,25 +325,18 @@
                 <div class="row">
                     <div class="col-md-12">
                         <!-- Portfolio Controller/Buttons -->
-                        <div class="controls text-center">
-                            <a class="filter active btn btn-common" data-filter="all">
-                                All
-                            </a>
-                            <a class="filter btn btn-common" data-filter=".accessibility">
-                                Accessibility
-                            </a>
-                            <a class="filter btn btn-common" data-filter=".ux">
-                                Usability
-                            </a>
-                            <a class="filter btn btn-common" data-filter=".el">
-                                E-learning
-                            </a>
-                            <a class="filter btn btn-common" data-filter=".cs">
-                                Cybersecurity
-                            </a>
-                        </div>
+                        <nav aria-label="Filter publications" class="controls text-center">
+                            <div id="pub-filters" role="group">
+                                <button type="button" class="filter active btn btn-common" data-filter="all" aria-pressed="true">All</button>
+                                <button type="button" class="filter btn btn-common" data-filter=".accessibility" aria-pressed="false">Accessibility</button>
+                                <button type="button" class="filter btn btn-common" data-filter=".ux" aria-pressed="false">Usability</button>
+                                <button type="button" class="filter btn btn-common" data-filter=".el" aria-pressed="false">E-learning</button>
+                                <button type="button" class="filter btn btn-common" data-filter=".cs" aria-pressed="false">Cybersecurity</button>
+                            </div>
+                        </nav>
                         <!-- Portfolio Controller/Buttons Ends-->
                     </div>
+
 
 
                     <!-- Portfolio Papers -->
