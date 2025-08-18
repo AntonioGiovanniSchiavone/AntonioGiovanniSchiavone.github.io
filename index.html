@@ -334,26 +334,47 @@
                     <div class="row">
                         <div class="col-md-12">
                             <!-- Portfolio Controller/Buttons -->
-                            <nav aria-label="Filter publications" class="controls text-center">
-                                <div id="pub-filters" role="group">
-                                    <button type="button" class="filter active btn btn-common" data-filter="all" aria-pressed="true">All</button>
-                                    <button type="button" class="filter btn btn-common" data-filter=".accessibility" aria-pressed="false">Accessibility</button>
-                                    <button type="button" class="filter btn btn-common" data-filter=".ux" aria-pressed="false">Usability</button>
-                                    <button type="button" class="filter btn btn-common" data-filter=".el" aria-pressed="false">E-learning</button>
-                                    <button type="button" class="filter btn btn-common" data-filter=".cs" aria-pressed="false">Cybersecurity</button>
+                            <nav aria-label="Filtra pubblicazioni" class="controls text-center" id="pub-filters">
+                                <div role="group" aria-controls="portfolio" aria-label="Categorie">
+                                    <button type="button" class="filter btn btn-common active"
+                                            data-filter="all" aria-pressed="true">
+                                        All
+                                    </button>
+                                    <button type="button" class="filter btn btn-common"
+                                            data-filter=".accessibility" aria-pressed="false">
+                                        Accessibility
+                                    </button>
+                                    <button type="button" class="filter btn btn-common"
+                                            data-filter=".ux" aria-pressed="false">
+                                        Usability
+                                    </button>
+                                    <button type="button" class="filter btn btn-common"
+                                            data-filter=".el" aria-pressed="false">
+                                        E-learning
+                                    </button>
+                                    <button type="button" class="filter btn btn-common"
+                                            data-filter=".cs" aria-pressed="false">
+                                        Cybersecurity
+                                    </button>
                                 </div>
+
+                                <!-- live region che annuncia esito del filtro -->
+                                <p id="filter-status" class="sr-only" aria-live="polite"></p>
                             </nav>
+
+
+
+
+
                             <!-- Portfolio Controller/Buttons Ends-->
                         </div>
 
-                        <!-- Annunci per screen reader -->
-                        <div id="filter-status" role="status" aria-live="polite" class="sr-only"></div>
 
 
 
                         <!-- Portfolio Papers -->
                         <div id="portfolio" role="list" class="row wow fadeInDown" data-wow-delay="0.4s">
-  <article class="col-sm-12 col-md-12 col-lg-12 col-xl-12 mix accessibility portfolio-item">
+                            <article class="col-sm-12 col-md-12 col-lg-12 col-xl-12 mix accessibility portfolio-item">
                                 <div class="portfolio-box d-flex">
                                     <div class="portfolio-image">
                                         <picture>
@@ -559,10 +580,12 @@
                                         <a href="https://www.youtube.com/watch?v=wepbUMH5a3g" class="btn btn-common"><i class="icon-social-youtube" aria-hidden="true"></i><span class="sr-only">Watch video</span></a>
                                     </div>
                                 </div>
-                            </div>            
-                        </div>
+                            </article>
+
+                        </div>            
                     </div>
-                </article>
+
+                </div>
                 <!-- Container Ends -->
             </section>
             <!-- Portfolio Section Ends -->
