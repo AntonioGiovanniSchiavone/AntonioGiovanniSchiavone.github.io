@@ -1228,3 +1228,51 @@ ol.news_list li {
         transition: none !important;
     }
 }
+
+
+/* Utility: solo per screen reader */
+.sr-only {
+  position:absolute!important;
+  width:1px!important;
+  height:1px!important;
+  padding:0!important;
+  margin:-1px!important;
+  overflow:hidden!important;
+  clip:rect(0,0,0,0)!important;
+  white-space:nowrap!important;
+  border:0!important;
+}
+
+/* Nascondi i radio, usa le label come pulsanti */
+#pub-filters input[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+#pub-filters label {
+  display: inline-block;
+  margin: 0 6px 10px;
+  cursor: pointer;
+}
+
+/* Stato selezionato (il radio è :checked) */
+#pub-filters input[type="radio"]:checked + label {
+  background: #fff;
+  border: 1px solid #00b4d9;
+  color: #00b4d9;
+}
+
+/* Focus ben visibile (HTML-only) */
+#pub-filters input[type="radio"]:focus + label,
+#pub-filters label:focus-visible {
+  outline: 3px solid #005a70;
+  outline-offset: 2px;
+}
+
+/* CONSIGLIO: rimuovi/override qualunque regola globale che azzera l’outline dei .btn */
+.btn:focus {
+  outline: 2px solid #005a70; /* oppure lascia l’outline di default del browser */
+  outline-offset: 2px;
+  box-shadow: none;
+}
