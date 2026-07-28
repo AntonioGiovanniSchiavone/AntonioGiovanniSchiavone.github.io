@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://antoniogiovannischiavone.github.io//sitemap.xml
+Sitemap: https://antoniogiovannischiavone.github.io/sitemap.xml
